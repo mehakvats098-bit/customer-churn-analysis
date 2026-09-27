@@ -1,0 +1,3 @@
+Contract_Type,total_customers,churned_customers,churn_rate
+Monthly,12,9,75.0
+Yearly,8,0,0.0

@@ -1,0 +1,21 @@
+Customer_ID,Age,Gender,City,Contract_Type,Monthly_Charges,Tenure_Months,Support_Calls,Payment_Method,Churn
+C001,25,Female,Delhi,Monthly,899,5,4,UPI,Yes
+C002,32,Male,Noida,Yearly,699,24,1,Credit Card,No
+C003,28,Female,Gurugram,Monthly,999,8,5,UPI,Yes
+C004,41,Male,Delhi,Yearly,799,36,1,Debit Card,No
+C005,35,Female,Noida,Monthly,749,14,3,UPI,No
+C006,23,Male,Gurugram,Monthly,1099,3,6,UPI,Yes
+C007,45,Female,Delhi,Yearly,899,48,0,Credit Card,No
+C008,30,Male,Noida,Monthly,799,10,4,Debit Card,Yes
+C009,27,Female,Gurugram,Yearly,699,30,1,UPI,No
+C010,39,Male,Delhi,Monthly,999,7,5,Credit Card,Yes
+C011,33,Female,Noida,Yearly,849,42,1,UPI,No
+C012,26,Male,Gurugram,Monthly,899,6,4,Debit Card,Yes
+C013,48,Female,Delhi,Yearly,999,54,0,Credit Card,No
+C014,31,Male,Noida,Monthly,749,12,3,UPI,No
+C015,29,Female,Gurugram,Monthly,1099,4,6,UPI,Yes
+C016,43,Male,Delhi,Yearly,799,40,1,Debit Card,No
+C017,36,Female,Noida,Monthly,899,9,4,Credit Card,Yes
+C018,24,Male,Gurugram,Monthly,699,2,5,UPI,Yes
+C019,38,Female,Delhi,Yearly,849,28,2,Credit Card,No
+C020,34,Male,Noida,Monthly,799,15,2,Debit Card,No
